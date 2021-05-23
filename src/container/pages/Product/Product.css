@@ -1,0 +1,21 @@
+.logo{
+    width: 100px;
+    height: 118px;
+    overflow: hidden;
+    position: relative;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.img-thumb-prod{
+    width: 210px;
+    height: 118px;
+    overflow: hidden;
+    position: relative;
+}
+
+.img-thumb-prod img{
+    width: 100%;
+}

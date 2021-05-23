@@ -1,0 +1,11 @@
+.title-post{
+    font-weight: bold;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.body-post{
+    font-size: 12px;
+    color: #2d2d2d;
+    margin: 10px;
+}
